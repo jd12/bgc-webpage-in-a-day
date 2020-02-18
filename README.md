@@ -83,7 +83,7 @@ Many websites have multiple websites associated with it. We are going to create 
    ![Services Final](images/servicesFinal.png)
    
 3. Create the Contact Page by clicking the three dots next to `services.html` and selecting `Duplicate` 
-  - Rename it to contact.html
+  - Rename it to contact.html and click OK
   
   - Modify the title to "Trillium Media Design - Contact" 
   
