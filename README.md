@@ -23,7 +23,7 @@ Open [this link](https://www.w3schools.com/html/html_basic.asp) in a new tab by 
 
 ## Part One: Start Project in Glitch
 
-1. Open this link 
+1. Open [this link](https://glitch.com/~jd12-bgc-webpage-in-a-day) 
 
 2. Sign in to Glitch so that you can save your progress.
 
